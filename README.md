@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring IT Prodigy | Code Explorer 🚀</h3>
 
 <h3 align="center"> <b>💻👨‍🎓I’m currently Studying at Sabaragamuwa University Of Srilanka</b></h3> <br><br>
-<img align="right" alt="coding" widht="400" src="">
+<img align="right" widht="400" src="">
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
