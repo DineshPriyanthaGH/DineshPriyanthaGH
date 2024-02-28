@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring IT Prodigy | Code Explorer 🚀</h3>
 
 <h3 align="center"> <b>💻👨‍🎓I’m currently Studying at Sabaragamuwa University Of Srilanka</b></h3> <br><br>
-<img align="right" alt="coding" widht="400" src="https://zilmoney.com/wp-content/uploads/2022/09/Print-Free-Checks-ZM1.png"> 
+<img align="right" alt="coding" widht="400" src="https://www.elearn.elearningmarkets.com/wp-content/uploads/2021/09/Untitled-design5.png"> 
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
