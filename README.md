@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring IT Prodigy | Code Explorer 🚀</h3>
 
 <h3 align="center"> <b>💻👨‍🎓I’m currently Studying at Sabaragamuwa University Of Srilanka</b></h3> <br><br>
-<img  alt="coding" widht="300"  src="https://www.sitelabs.com.au/wp-content/uploads/2020/04/local-website-design-scaled.jpg"> 
+<img  alt="coding" widht="300"  src="https://www.sitelabs.com.au/wp-content/uploads/2020/04/local-website-design-scale.jpg"> 
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
