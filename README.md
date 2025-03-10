@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Dinesh Priyantha 
 
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/DineshPriyanthaGH?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DineshPriyanthaGH.repoName) <img src="https://komarev.com/ghpvc/?username=DineshPriyanthaGH" alt="AnushkaWijegoonawardana97" /> <p align="center">
+![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/DineshPriyanthaGH?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DineshPriyanthaGH.repoName) <img src="https://komarev.com/ghpvc/?username=DineshPriyanthaGH" alt="" /> <p align="center">
 
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
