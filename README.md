@@ -17,33 +17,6 @@ I'm a **Full-Stack Developer** and **DevOps Enthusiast** passionate about crafti
 - **AI/ML**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white), ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0080FF?style=flat&logo=tensorflow&logoColor=white)
 
 
-## Skills
-
-### Frontend Development
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwind-css&logoColor=white)
-  
-### Backend Development
-- ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### DevOps & Cloud
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-### AI/ML
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0080FF?style=flat&logo=tensorflow&logoColor=white)
-
----
-🔗 **Connect with Me**:
-- [LinkedIn](https://linkedin.com/in/dinesh-priyantha) | [GitHub](https://github.com/DineshPriyanthaGH) | [Medium](https://medium.com/@dineshpriyantha)  
-- [Email](mailto:dineshpriyantha200248@gmail.com)
-
-
 ### "Building technology that improves lives through innovation."
 
   <hr>
