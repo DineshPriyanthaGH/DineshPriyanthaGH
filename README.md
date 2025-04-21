@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
-## About Me
+### About Me
 
 I'm a **Full-Stack Developer** and **DevOps Enthusiast** passionate about crafting scalable and efficient web applications. I am currently pursuing my **BSc(Hons) in Computing and Information Systems** at **Sabaragamuwa University of Sri Lanka**. I focus on optimizing development processes, enhancing performance through cloud technologies, and embracing automation to improve efficiency.
 
