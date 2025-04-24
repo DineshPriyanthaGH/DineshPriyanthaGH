@@ -24,23 +24,27 @@ I'm a **Full-Stack Developer** and **DevOps Enthusiast** passionate about crafti
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DineshPriyanthaGH&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p> <br> <br>
+ <div align="center">
+   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DineshPriyanthaGH&show_icons=true&theme=tokyonight" />
+   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DineshPriyanthaGH&theme=tokyonight" />
+ </div>
+  <br>
+ <div align="center">
+   <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DineshPriyanthaGH&theme=tokyonight" />
+ </div>
+  <br>
+ <div align="center">
+   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=DineshPriyanthaGH&custom_title=Dinesh's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" />
+ </div>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DineshPriyanthaGH&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=DineshPriyanthaGH&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" />
-
-<br><br><br><br><br><br><br><br><br>
-
-<hr>
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="40" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=DineshPriyanthaGH&theme=juicyfresh&no-bg=true" />
-<hr>
- <p align="center">&nbsp;🔝Top Contributed Repo </p><br>
+ <br>
  
-![](https://github-contributor-stats.vercel.app/api?username=DineshPriyanthaGH&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ ## 🏆 GitHub Trophies
+ 
+ <div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=DineshPriyanthaGH&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+ </div>
+
 
 <hr>
 
