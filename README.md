@@ -39,13 +39,6 @@ I'm a **Full-Stack Developer** and **DevOps Enthusiast** passionate about crafti
  
  <br>
  
- ## 🏆 GitHub Trophies
- 
- <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=DineshPriyanthaGH&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
- </div>
-
-
 <hr>
 
   <p align="center">&nbsp;✍️ Random Dev Quote </p><br>
