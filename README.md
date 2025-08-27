@@ -21,23 +21,27 @@ I'm a **Full-Stack Developer** and **DevOps Enthusiast** passionate about crafti
 ### "Building technology that improves lives through innovation."
 
   <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;
+  <i><b style="color:#FF6EC7;">Git Activeness</b></i>
+</p>
 
- <div align="center">
-   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DineshPriyanthaGH&show_icons=true&theme=tokyonight" />
-   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DineshPriyanthaGH&theme=tokyonight" />
- </div>
-  <br>
- <div align="center">
-   <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DineshPriyanthaGH&theme=tokyonight" />
- </div>
-  <br>
- <div align="center">
-   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=DineshPriyanthaGH&custom_title=Dinesh's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" />
- </div>
- 
- <br>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DineshPriyanthaGH&show_icons=true&theme=dracula&hide_title=false&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DineshPriyanthaGH&theme=dracula" />
+</div>
+<br>
+
+<div align="center">
+  <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DineshPriyanthaGH&theme=dracula" />
+</div>
+<br>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=DineshPriyanthaGH&custom_title=Dinesh's%20Contribution%20Graph&theme=dracula&hide_border=true" />
+</div>
+<br>
+
  
 <hr>
 
